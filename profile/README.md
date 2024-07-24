@@ -24,6 +24,7 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - TheAR3Guy - musik chef
 
 ## Contributors
+- PlaySource - playtester
 - Grub PL - playtester 
 - Wheatley/Speed Cola/Virgil - playtester
 - DHet - level designer
