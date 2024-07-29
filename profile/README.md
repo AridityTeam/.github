@@ -21,7 +21,8 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - bvvth556 - team lead, level designer, script manipulator guy
 - certified PC eater/rilabug - project leads for batarongOS, the archiso config and plymouth theme guy for batarongOS
 - Timmy - the archiso config guy for batarongOS
-- TheAR3Guy - musik chef
+- YourLocalMoon - project lead for hl2dm:ce now
+- nico/YourLocalSentry/universebreaker - level designer, sfm animator guy
 
 ## Contributors
 - PlaySource - playtester
