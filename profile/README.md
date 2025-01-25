@@ -2,7 +2,6 @@
 ## The software/games we develop
 We develop software/games like
 - ~~Aridity Game Client~~
-- Resonance Warfare
 - Beta Fortress
 - Team Fortress 2 Classic Prime
 
