@@ -23,7 +23,7 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - PracticeMedicine - team lead (the OG), project leads, programmer, level designer, the archiso config guy on batarongOS
 - TwilightBob/Unnamed - team lead, project leads, level designer, model guy
 - bvvth556 - team lead, level designer, script manipulator guy
-- maksw2 - website guy
+- maksw2 - website guy and emotional help
 
 ## Contributors
 - gabgamming920 - website guy
