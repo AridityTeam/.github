@@ -3,7 +3,7 @@
 We develop software/games like
 - ~~Aridity Game Client~~
 - Beta Fortress
-- Team Fortress 2 Classic Prime
+- Half-Life: Beating Quota
 
 # FAQ
 ## About us
