@@ -1,4 +1,5 @@
 # The Aridity Team
+**We may use GitHub for some repositories. From now on, our open-source repositories will now be on [Bitbucket](https://bitbucket.org/aridity-project-src/workspace/projects/OP).**
 ## The software/games we develop
 We develop software/games like
 - ~~Aridity Game Client~~
