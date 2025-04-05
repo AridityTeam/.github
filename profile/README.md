@@ -21,19 +21,19 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 
 # Members
 ## Team members
-- PracticeMedicine - team lead (the OG), project leads, programmer, level designer, the archiso config guy on batarongOS
-- TwilightBob/Unnamed - team lead, project leads, level designer, model guy
-- bvvth556 - team lead, level designer, script manipulator guy
-- maksw2 - website guy and emotional help
+- [PracticeMedicine](https://github.com/PracticeMedicine) - team lead (the OG), project leads, programmer, level designer, the archiso config guy on batarongOS
+- [TwilightBob/Unnamed](https://github.com/TwilightBob) - team lead, project leads, level designer, model guy
+- [bvvth556](https://github.com/bvvth556epic) - team lead, level designer, script manipulator guy
+- [maksw](https://github.com/maksw2) - website guy and emotional help
 
 ## Contributors
-- gabgamming920 - website guy
+- [gabgamming920](https://github.com/gabgamming920) - website guy (his creation isn't used)
 - Der Basilisk - logo designer
 - fuzered - playtester
 - PlaySource - playtester
-- Grub PL - playtester 
+- [Grub PL](https://github.com/GrubPL) - playtester 
 - DHet - level designer, logo designer
-- Soviet Hoovy - level designer and annoying asf
+- [Soviet Hoovy](https://github.com/SovietHoovy) - level designer and annoying asf
 
 ## Former members/contributors
 - certified PC eater/rilabug - project leads for batarongOS, the archiso config and plymouth theme guy for batarongOS
