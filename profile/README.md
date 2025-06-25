@@ -34,6 +34,8 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - [Grub PL](https://github.com/GrubPL) - playtester 
 - DHet - level designer, logo designer
 - [Soviet Hoovy](https://github.com/SovietHoovy) - level designer and annoying asf
+- [Kaleidø.vtf](https://github.com/Kaleido-Zeit-Lime) - modeller, texture artist and helped with beta stuff
+- [SBR0607](https://github.com/SBR0607) - mapper
 
 ## Former members/contributors
 - certified PC eater/rilabug - project leads for batarongOS, the archiso config and plymouth theme guy for batarongOS
