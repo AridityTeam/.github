@@ -3,7 +3,7 @@
 ## The software/games we develop
 We develop software/games like
 - ~~Aridity Game Client~~
-- Beta Fortress
+- Illustrative Fortress
 - Half-Life: Beating Quota
 
 # FAQ
