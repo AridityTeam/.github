@@ -45,4 +45,4 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - YourLocalMoon - Lead developer and programmer for Resonance Warfare (formally Half-Life 2 Deathmatch: Community Edition)
 
 # Partners/Sponsors
-- [Rogue Lambda](
+- [Rogue Lambda](https://www.moddb.com/company/rogue-lambda)
