@@ -1,10 +1,9 @@
 # The Aridity Team
-**We may use GitHub for some repositories. From now on, our open-source repositories will now be on [Bitbucket](https://bitbucket.org/aridity-project-src/workspace/projects/OP).**
 ## The software/games we develop
 We develop software/games like
 - ~~Aridity Game Client~~
 - Illustrative Fortress
-- Half-Life: Beating Quota
+- ~~Half-Life: Beating Quota~~
 
 # FAQ
 ## About us
@@ -16,8 +15,8 @@ Wanna join? Don't worry, you don't need to be a software developer/engineer to b
 ## Can we partner?
 Short answer is No. Because of the events that happened back then, The Aridity Team currently doesn't accept partnerships/sponsorships from third-party organizations unless its very trusted.
 
-## o shi its a bug!!!@!111!!!
-Our software can be improved, and the team is ready to do so! If you have encountered an issue please report them to the Aridity Team immediately. We wanted our software to be more stable and more complex
+## I found an potential issue in your software!
+Our software can be improved, and the team is ready to do so! If you have encountered an issue please report them to the Aridity Team immediately. We want our software to be more stable and more user-friendly.
 
 # Members
 ## Team members
@@ -46,4 +45,4 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - YourLocalMoon - Lead developer and programmer for Resonance Warfare (formally Half-Life 2 Deathmatch: Community Edition)
 
 # Partners/Sponsors
-none.
+- [Rogue Lambda](
